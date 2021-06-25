@@ -1,0 +1,10 @@
+# replace this ignore file with the .gitignore-project
+poetry.lock
+pyproject.toml
+wagtailcms/
+.dockerignore
+manage.py
+package.json
+package-lock.json
+frontend
+node_modules
